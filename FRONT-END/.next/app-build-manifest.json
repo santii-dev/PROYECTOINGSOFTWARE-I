@@ -1,57 +1,15 @@
 {
   "pages": {
-    "/inicio/page": [
+    "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/inicio/page.css",
-      "static/chunks/app/inicio/page.js"
-    ],
-    "/inicio/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/inicio/layout.css",
-      "static/chunks/app/inicio/layout.js"
+      "static/chunks/app/page.js"
     ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
-    ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
-    "/loginn/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/loginn/page.css",
-      "static/chunks/app/loginn/page.js"
-    ],
-    "/lista-proyectos/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/lista-proyectos/page.css",
-      "static/chunks/app/lista-proyectos/page.js"
-    ],
-    "/listado/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/listado/page.css",
-      "static/chunks/app/listado/page.js"
-    ],
-    "/subir-guia/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/subir-guia/page.css",
-      "static/chunks/app/subir-guia/page.js"
-    ],
-    "/vistaproyectos/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/vistaproyectos/page.css",
-      "static/chunks/app/vistaproyectos/page.js"
     ]
   }
 }

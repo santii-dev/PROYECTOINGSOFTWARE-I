@@ -1,7 +1,4 @@
 {
   "/page": "app/page.js",
-  "/loginn/page": "app/loginn/page.js",
-  "/listado/page": "app/listado/page.js",
-  "/subir-guia/page": "app/subir-guia/page.js",
-  "/vistaproyectos/page": "app/vistaproyectos/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }

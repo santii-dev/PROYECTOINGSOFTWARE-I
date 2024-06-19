@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+
+.container{
+position: relative;
+width: 928px;
+height: 608px;
+top: 50px;
+left: 300px;
+background: #1A202C;
+}
+
+h1{
+    position: absolute;
+    width: 200px;
+    height: 24px;
+    left: 86px;
+    top: 37px;
+    
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    }
+
+.guia label{
+    margin-left: 1000px;
+}
+
+.guia input{
+    margin-left: 100px;
+    margin-top: 120px;
+}
+
+button{
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 16px;
+    gap: 10px;
+    width: 100px;
+    height: 45px;
+    left: calc(50% - 223px/2 + 306.5px);
+    top: calc(50% - 60px/2);
+    background: #47B73C;
+    border: 1px solid #CEBEFE;
+    border-radius: 4px;
+    margin-top: 60px;
+    color: white ;
+    margin-left: 400px;
+
+}
+
+.pdf h1{
+    margin-top: 150px;
+
+}
+.pdf form{
+    top: 50px;
+
+}
+
+.foto h1{
+    margin-top: 300px;
+
+}
+
