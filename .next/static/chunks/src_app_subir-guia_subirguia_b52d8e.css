@@ -1,0 +1,84 @@
+/* [project]/src/app/subir-guia/subirguia.css [app-client] (css) */
+.Container {
+  display: flex;
+  position: relative;
+  width: 928px;
+  height: 302px;
+  background: #1a202c;
+  margin-top: 150px;
+  margin-left: 350px;
+}
+
+h1 {
+  position: absolute;
+  width: 200px;
+  height: 24px;
+  left: 86px;
+  top: 37px;
+  font-family: Plus Jakarta Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+
+body {
+  background-color: #000;
+}
+
+li {
+  width: 8px;
+  height: 8px;
+  background: #9cd323;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-top: 59px;
+  margin-left: 50px;
+  border-radius: 5px;
+}
+
+.guia {
+  box-sizing: border-box;
+  width: 492px;
+  height: 30px;
+  left: 240px;
+  top: 40px;
+  background: #fff;
+  opacity: .8;
+  border: 1px solid #156bd6;
+  border-radius: 70px;
+  margin-right: 65px;
+  margin-top: 100px;
+}
+
+.guia label {
+  margin-left: 20px;
+}
+
+.guia input {
+  margin-top: 20px;
+}
+
+button {
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 16px;
+  gap: 10px;
+  width: 100px;
+  height: 45px;
+  left: calc(50% + 195px);
+  top: calc(50% - 30px);
+  background: #47b73c;
+  border: 1px solid #cebefe;
+  border-radius: 4px;
+  margin-top: 60px;
+  color: #fff;
+  margin-left: 50px;
+}
+
+/*# sourceMappingURL=src_app_subir-guia_subirguia_b52d8e.css.map*/

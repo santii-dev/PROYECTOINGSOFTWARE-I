@@ -1,0 +1,155 @@
+/* [project]/src/app/lista-proyectos/lista-proyectos.css [app-client] (css) */
+.Logo {
+  position: absolute;
+  width: 170px;
+  height: 125px;
+  left: 44px;
+  top: 11px;
+}
+
+body {
+  background-color: #000;
+}
+
+.Saludo {
+  box-sizing: border-box;
+  position: absolute;
+  width: 492px;
+  height: 44px;
+  left: 240px;
+  top: 40px;
+  background: #fff;
+  opacity: .8;
+  border: 1px solid #156bd6;
+  border-radius: 70px;
+}
+
+.Saludo p {
+  position: absolute;
+  width: 412px;
+  height: 28px;
+  bottom: -25px;
+  left: 10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  letter-spacing: -.03em;
+  color: #000;
+}
+
+.user-icon {
+  box-sizing: border-box;
+  position: absolute;
+  height: 44px;
+  left: 753px;
+  top: 40px;
+  opacity: .8;
+  border-radius: 90px;
+}
+
+.Header {
+  box-sizing: border-box;
+  position: absolute;
+  width: 1519px;
+  height: 136px;
+  left: 0;
+  top: 0;
+  background: #1a202c;
+  background-color: #1a202c;
+}
+
+.barra_lateral {
+  box-sizing: border-box;
+  position: absolute;
+  width: 360px;
+  height: 1504px;
+  left: 0;
+  top: 135px;
+  background: #1a202c;
+  border-right: 1px solid #0c0c0c;
+}
+
+.barra_lateral ul li {
+  padding: 10px 20px;
+  color: #59e712;
+}
+
+.barra_lateral h2 {
+  color: #fffbfb;
+  margin-left: 30px;
+}
+
+.buscador {
+  box-sizing: border-box;
+  position: absolute;
+  width: 1035px;
+  height: 142px;
+  left: 425px;
+  top: 200px;
+  border: 1px solid #fbfbfb;
+  border-radius: 10px;
+}
+
+.buscar {
+  box-sizing: border-box;
+  position: absolute;
+  width: 492px;
+  height: 44px;
+  left: 127px;
+  top: 48px;
+  color: #000;
+  opacity: .8;
+  border: 1px solid #c3d4e9;
+  border-radius: 70px;
+}
+
+.buscar::placeholder {
+  width: 203px;
+  height: 30px;
+  left: 134px;
+  top: 54px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 160%;
+  text-align: center;
+  letter-spacing: -.02em;
+  color: #000;
+  mix-blend-mode: normal;
+}
+
+.agregar {
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 16px;
+  gap: 10px;
+  position: absolute;
+  width: 223px;
+  height: 60px;
+  left: calc(50% + 195px);
+  top: calc(50% - 30px);
+  background: #47b73c;
+  border: 1px solid #cebefe;
+  border-radius: 4px;
+  color: #f0f8ff;
+}
+
+.proyectos {
+  margin-top: 300px;
+  box-sizing: border-box;
+  width: 317px;
+  height: 388px;
+  border: 4px solid #f6f7f9;
+  border-radius: 10px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+
+/*# sourceMappingURL=src_app_lista-proyectos_lista-proyectos_c369d6.css.map*/
