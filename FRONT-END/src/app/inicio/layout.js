@@ -11,7 +11,10 @@ export default function RootLayout({ children }) {
             <img className="imagen" src="logo.png" alt="" />
             <h1 className="titulo" >PROYECTO COLECTIVOS UCP</h1>
             <div>
-                 <button class="custom-btn btn-9">Ingresa!!</button>
+              <a href="/loginn" class="">
+                <button class="custom-btn btn-9">Ingresa!!</button>
+              </a>
+           
             </div>
          </div>
         

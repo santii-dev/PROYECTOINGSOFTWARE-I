@@ -9,11 +9,9 @@ export default function listaproyectos() {
         <>
             <div className="container">
                 <div className="Header">
-                    <img className="Logo" src="/logo.png" alt="Logo" width={500} height={300} />
+                    <img className="Logo" src="logo.png" alt="Logo" width={500} height={300} />
                     <div className="Saludo">
-                        <p>Hola, </p>
                     </div>
-                    <img className="user-icon" src="/user-icon-on-transparent-background-free-png.webp" alt="Icono de usuario" width={500} height={300} />
                 </div>
                 <div className="buscador">
                     <input className="buscar" type="text" placeholder="Buscar Proyecto" />

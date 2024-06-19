@@ -7,13 +7,11 @@ export default function loginn() {
                 <div className="contenido-izquierda">
                     <div className="logoucp">
                         <img
-                            src="assets/img/logoconfondo-removebg-preview.png"
+                            src="logo.png"
                             alt="logo de colectivos UCP"
                         />
                     </div>
-                    <div className="titulose">
-                        <h1>INICIAR SESIÓN</h1>
-                    </div>
+               
                     {/* Contenido izquierdo */}
                     <div className="formulario">
                         <h1>INGRESA TUS DATOS</h1>
@@ -36,7 +34,7 @@ export default function loginn() {
                 </div>
                 <div className="imagen-derecha">
                     {/* Imagen en la parte derecha */}
-                    <img src="assets/img/U.Catolica-12-scaled.jpg" alt="Edificio de la UCP" />
+                    <img src="U.Catolica-12-scaled.jpg" alt="Edificio de la UCP" />
                 </div>
             </div>
         </>
